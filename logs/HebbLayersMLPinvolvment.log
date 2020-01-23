@@ -644,3 +644,212 @@ Input layer mean hebb tensor(0.)
 Input layer min hebb tensor(0.)
 Input layer max hebb tensor(0.)
 First layer mean hebb tensor(561113.6875, device='cuda:0')
+First layer min hebb tensor(385451.0625, device='cuda:0')
+First layer max hebb tensor(684245.8750, device='cuda:0')
+Changing direction: doing worst
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3940, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3999, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(573315.3750, device='cuda:0')
+First layer min hebb tensor(393750.0312, device='cuda:0')
+First layer max hebb tensor(699168.7500, device='cuda:0')
+Changing direction: doing better
+Better loss!
+Count reset to 0
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3991, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3881, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(585518.2500, device='cuda:0')
+First layer min hebb tensor(402065.0938, device='cuda:0')
+First layer max hebb tensor(714090.4375, device='cuda:0')
+Changing direction: doing worst
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3962, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.4031, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(597719.7500, device='cuda:0')
+First layer min hebb tensor(410400.7500, device='cuda:0')
+First layer max hebb tensor(729016.4375, device='cuda:0')
+HYPER COUNT	3
+count: 	0
+count down: 	1
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.4002, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3959, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(609925.6250, device='cuda:0')
+First layer min hebb tensor(418744.9062, device='cuda:0')
+First layer max hebb tensor(743952.1875, device='cuda:0')
+Changing direction: doing better
+Better loss!
+Count reset to 0
+HYPER COUNT	3
+count: 	0
+count down: 	0
+previous accuracy: 	2208.811352491379
+running_loss: 	2208.582583665848
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.4006, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3906, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(622130.5625, device='cuda:0')
+First layer min hebb tensor(427107.2188, device='cuda:0')
+First layer max hebb tensor(758871.5000, device='cuda:0')
+Changing direction: doing worst
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3935, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3839, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(634333.2500, device='cuda:0')
+First layer min hebb tensor(435455.4062, device='cuda:0')
+First layer max hebb tensor(773761.3125, device='cuda:0')
+Changing direction: doing better
+Better loss!
+Count reset to 0
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3869, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3834, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(646543.1250, device='cuda:0')
+First layer min hebb tensor(443779.3438, device='cuda:0')
+First layer max hebb tensor(788686.9375, device='cuda:0')
+Changing direction: doing worst
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3997, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3949, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(658746.5000, device='cuda:0')
+First layer min hebb tensor(452136.9375, device='cuda:0')
+First layer max hebb tensor(803592.0625, device='cuda:0')
+Changing direction: doing better
+Better loss!
+Count reset to 0
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3976, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3945, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(670952.9375, device='cuda:0')
+First layer min hebb tensor(460496.1562, device='cuda:0')
+First layer max hebb tensor(818509.1250, device='cuda:0')
+Changing direction: doing worst
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.4038, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3896, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(683156.7500, device='cuda:0')
+First layer min hebb tensor(468872.7188, device='cuda:0')
+First layer max hebb tensor(833424.7500, device='cuda:0')
+Changing direction: doing better
+Better loss!
+Count reset to 0
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3961, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3932, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(695362.6250, device='cuda:0')
+First layer min hebb tensor(477192.3438, device='cuda:0')
+First layer max hebb tensor(848346.1875, device='cuda:0')
+Changing direction: doing worst
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.4049, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3991, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(707567.7500, device='cuda:0')
+First layer min hebb tensor(485538.9688, device='cuda:0')
+First layer max hebb tensor(863249.6250, device='cuda:0')
+Changing direction: doing better
+Better loss!
+Count reset to 0
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3983, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3913, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(719778.6250, device='cuda:0')
+First layer min hebb tensor(493931.4062, device='cuda:0')
+First layer max hebb tensor(878171.1250, device='cuda:0')
+Changing direction: doing worst
+HYPER COUNT	3
+count: 	0
+count down: 	0
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3968, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3881, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)
+Input layer min hebb tensor(0.)
+Input layer max hebb tensor(0.)
+First layer mean hebb tensor(731980.1250, device='cuda:0')
+First layer min hebb tensor(502212., device='cuda:0')
+First layer max hebb tensor(893085.0625, device='cuda:0')
+Changing direction: doing better
+Better loss!
+Count reset to 0
+HYPER COUNT	3
+count: 	0
+count down: 	0
+previous accuracy: 	2208.0935735702515
+running_loss: 	2207.8614921569824
+Hebb rates inputs: 0
+Hebb rates neurons: [tensor(-0.3934, device='cuda:0', grad_fn=<MulBackward0>), tensor(-0.3910, device='cuda:0', grad_fn=<MulBackward0>)]
+Hebb rates neurites: [0.0, 0.0]
+Input layer mean hebb tensor(0.)

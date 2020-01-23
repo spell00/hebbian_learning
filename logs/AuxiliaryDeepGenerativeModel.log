@@ -1,0 +1,42 @@
+epoch 0
+Epoch: 0
+[Train]		 J_a: 242.10, L: 121.18, U: 120.68, accuracy: 0.2585, kld: 51023.9
+[Validation]	 J_a: 163.67, L: 81.22, U: 82.29, accuracy: 0.4103 , kld: 47376.4
+Warmup:	0.0	%
+epoch 1
+Epoch: 1
+[Train]		 J_a: 148.94, L: 74.27, U: 74.55, accuracy: 0.7329, kld: 60686.4
+[Validation]	 J_a: 144.35, L: 72.18, U: 72.07, accuracy: 0.6410 , kld: 60070.8
+Warmup:	50.0	%
+epoch 2
+Epoch: 2
+[Train]		 J_a: 138.42, L: 69.12, U: 69.21, accuracy: 0.7607, kld: 63713.3
+[Validation]	 J_a: 139.52, L: 69.64, U: 69.80, accuracy: 0.8205 , kld: 61740.0
+epoch 3
+Epoch: 3
+[Train]		 J_a: 134.68, L: 67.23, U: 67.38, accuracy: 0.7585, kld: 57260.7
+[Validation]	 J_a: 137.71, L: 68.69, U: 68.95, accuracy: 0.7179 , kld: 59426.5
+epoch 4
+Epoch: 4
+[Train]		 J_a: 132.73, L: 66.26, U: 66.40, accuracy: 0.7778, kld: 50832.8
+[Validation]	 J_a: 136.22, L: 67.93, U: 68.22, accuracy: 0.7949 , kld: 50190.7
+epoch 5
+Epoch: 5
+[Train]		 J_a: 131.45, L: 65.64, U: 65.75, accuracy: 0.7842, kld: 40812.9
+[Validation]	 J_a: 135.23, L: 67.51, U: 67.65, accuracy: 0.8205 , kld: 41031.0
+epoch 6
+Epoch: 6
+[Train]		 J_a: 130.23, L: 65.11, U: 65.06, accuracy: 0.8056, kld: 36718.2
+[Validation]	 J_a: 134.15, L: 67.08, U: 67.00, accuracy: 0.7692 , kld: 39995.5
+epoch 7
+Epoch: 7
+[Train]		 J_a: 129.36, L: 64.61, U: 64.69, accuracy: 0.8098, kld: 33518.6
+[Validation]	 J_a: 133.64, L: 66.67, U: 66.90, accuracy: 0.8205 , kld: 33469.4
+epoch 8
+Epoch: 8
+[Train]		 J_a: 128.57, L: 64.14, U: 64.37, accuracy: 0.8547, kld: 28759.5
+[Validation]	 J_a: 132.60, L: 66.14, U: 66.38, accuracy: 0.8205 , kld: 28793.4
+epoch 9
+Epoch: 9
+[Train]		 J_a: 128.00, L: 63.82, U: 64.12, accuracy: 0.8333, kld: 28694.1
+[Validation]	 J_a: 132.43, L: 66.04, U: 66.32, accuracy: 0.8718 , kld: 28807.3

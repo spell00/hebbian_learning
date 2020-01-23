@@ -1,0 +1,8 @@
+From Kingma et al. Semi-supervised Learning with Deep Generative Models (https://arxiv.org/pdf/1406.5298.pdf)
+
+"We compare to a broad range of existing solutions in semi-
+supervised learning,  in particular to classification using nearest neighbours (NN), support vector
+machines on the labelled set (SVM), the transductive SVM (TSVM), and contractive auto-encoders
+(CAE). Some of the best results currently are obtained by the manifold tangent classifier (MTC)
+(Rifai et al., 2011) and the AtlasRBF method (Pitelis et al., 2014).  Unlike the other models in this
+comparison, our models are fully probabilistic but have a cost in the same order as these alternatives"

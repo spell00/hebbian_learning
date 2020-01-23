@@ -1,0 +1,16 @@
+n_samples:	937
+Number of classes:	11
+Total parameters: 14651
+Total: 14651
+fcs.0.weight	torch.Size([16, 784])
+fcs.0.bias	torch.Size([16])
+fcs.1.weight	torch.Size([16, 16])
+fcs.1.bias	torch.Size([16])
+fcs.2.weight	torch.Size([11, 16])
+fcs.2.bias	torch.Size([11])
+bn.0.weight	torch.Size([16])
+bn.0.bias	torch.Size([16])
+bn.1.weight	torch.Size([16])
+bn.1.bias	torch.Size([16])
+hebb_layers.bn_input.weight	torch.Size([784])
+hebb_layers.bn_input.bias	torch.Size([784])
