@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fc74e16-7d63-40ff-a8d6-fa30facad869" name="Default" comment="" />
+    <list default="true" id="3fc74e16-7d63-40ff-a8d6-fa30facad869" name="Default" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/HebbLayersMLPinvolvment.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/HebbLayersMLPinvolvment.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/MLP.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/MLP.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/MLP_involvment.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/MLP_involvment.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/discriminative/artificial_neural_networks/hebbian_network/hebbLayers.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/discriminative/artificial_neural_networks/hebbian_network/hebbLayers.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -458,7 +464,7 @@
       <workItem from="1579754950445" duration="1273000" />
       <workItem from="1579800348855" duration="5464000" />
       <workItem from="1579809116982" duration="1740000" />
-      <workItem from="1579811172105" duration="1709000" />
+      <workItem from="1579811172105" duration="3552000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1531321255102</created>
@@ -712,7 +718,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579812406330</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="first commit">
+      <created>1579813040731</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1579813040731</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView">
@@ -770,21 +783,26 @@
     <MESSAGE value="semi-supervised learning: M2, M1+M2, version with auxiliary variable, version with ladder VAE. New VAEs: now really working kld and MSE loss; 3 different Sylvester flows, all flows work with adgm" />
     <MESSAGE value="adding translated ids dicts in data and an example of a line that should work" />
     <MESSAGE value="adding missing files in models" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4258" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579811117941">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
     <state x="4258" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579811117941" />
+    <state x="4469" y="345" width="651" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579813757150">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state x="4469" y="345" width="651" height="397" key="#com.intellij.fileTypes.FileTypeChooser/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579813757150" />
     <state x="4474" y="146" width="642" height="794" key="#main_mlp_mnist" timestamp="1579755390244">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
     <state x="4474" y="146" width="642" height="794" key="#main_mlp_mnist/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579755390244" />
-    <state x="4333" y="136" width="923" height="814" key="CommitChangelistDialog2" timestamp="1579812880082">
+    <state x="4333" y="136" width="923" height="814" key="CommitChangelistDialog2" timestamp="1579813126799">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state x="4333" y="136" width="923" height="814" key="CommitChangelistDialog2/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812880082" />
+    <state x="4333" y="136" width="923" height="814" key="CommitChangelistDialog2/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579813126799" />
     <state x="4583" y="298" width="447" height="491" key="FileChooserDialogImpl" timestamp="1579812931402">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
@@ -797,38 +815,38 @@
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
     <state x="4524" y="248" width="541" height="590" key="Github.UntrackedFilesDialog/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812818757" />
-    <state width="1255" height="417" key="GridCell.Tab.0.bottom" timestamp="1579812038612">
+    <state width="1252" height="231" key="GridCell.Tab.0.bottom" timestamp="1579814614981">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1255" height="417" key="GridCell.Tab.0.bottom/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812038612" />
-    <state width="1255" height="417" key="GridCell.Tab.0.center" timestamp="1579812038612">
+    <state width="1252" height="231" key="GridCell.Tab.0.bottom/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579814614981" />
+    <state width="1252" height="231" key="GridCell.Tab.0.center" timestamp="1579814614981">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1255" height="417" key="GridCell.Tab.0.center/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812038612" />
-    <state width="1255" height="417" key="GridCell.Tab.0.left" timestamp="1579812038612">
+    <state width="1252" height="231" key="GridCell.Tab.0.center/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579814614981" />
+    <state width="1252" height="231" key="GridCell.Tab.0.left" timestamp="1579814614981">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1255" height="417" key="GridCell.Tab.0.left/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812038612" />
-    <state width="1255" height="417" key="GridCell.Tab.0.right" timestamp="1579812038612">
+    <state width="1252" height="231" key="GridCell.Tab.0.left/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579814614981" />
+    <state width="1252" height="231" key="GridCell.Tab.0.right" timestamp="1579814614981">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1255" height="417" key="GridCell.Tab.0.right/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812038612" />
-    <state width="1255" height="417" key="GridCell.Tab.1.bottom" timestamp="1579812038612">
+    <state width="1252" height="231" key="GridCell.Tab.0.right/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579814614981" />
+    <state width="1252" height="231" key="GridCell.Tab.1.bottom" timestamp="1579814582108">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1255" height="417" key="GridCell.Tab.1.bottom/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812038612" />
-    <state width="1255" height="417" key="GridCell.Tab.1.center" timestamp="1579812038612">
+    <state width="1252" height="231" key="GridCell.Tab.1.bottom/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579814582108" />
+    <state width="1252" height="231" key="GridCell.Tab.1.center" timestamp="1579814582108">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1255" height="417" key="GridCell.Tab.1.center/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812038612" />
-    <state width="1255" height="417" key="GridCell.Tab.1.left" timestamp="1579812038612">
+    <state width="1252" height="231" key="GridCell.Tab.1.center/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579814582108" />
+    <state width="1252" height="231" key="GridCell.Tab.1.left" timestamp="1579814582108">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1255" height="417" key="GridCell.Tab.1.left/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812038612" />
-    <state width="1255" height="417" key="GridCell.Tab.1.right" timestamp="1579812038612">
+    <state width="1252" height="231" key="GridCell.Tab.1.left/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579814582108" />
+    <state width="1252" height="231" key="GridCell.Tab.1.right" timestamp="1579814582108">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1255" height="417" key="GridCell.Tab.1.right/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812038612" />
+    <state width="1252" height="231" key="GridCell.Tab.1.right/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579814582108" />
     <state x="4507" y="253" width="575" height="581" key="RollbackChangesDialog" timestamp="1579811990761">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
@@ -837,14 +855,18 @@
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
     <state x="4289" y="175" width="1022" height="737" key="SettingsEditor/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812694915" />
-    <state x="4395" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1579812759276">
+    <state x="4395" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1579815011084">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state x="4395" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812759276" />
-    <state x="4528" y="280" width="523" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1579812879132">
+    <state x="4395" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579815011084" />
+    <state x="4528" y="280" width="523" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1579813015604">
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
-    <state x="4528" y="280" width="523" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579812879132" />
+    <state x="4528" y="280" width="523" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579813015604" />
+    <state x="4460" y="333" width="670" height="420" key="git4idea.merge.GitPullDialog" timestamp="1579813055685">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state x="4460" y="333" width="670" height="420" key="git4idea.merge.GitPullDialog/67.27.3773.2133/3840.0.1920.1080@3840.0.1920.1080" timestamp="1579813055685" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -894,6 +916,21 @@
           <line>501</line>
           <option name="timeStamp" value="310" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/discriminative/artificial_neural_networks/MultiLayerPerceptron.py</url>
+          <line>421</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/discriminative/artificial_neural_networks/hebbian_network/hebbLayers.py</url>
+          <line>190</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/discriminative/artificial_neural_networks/MultiLayerPerceptron.py</url>
+          <line>420</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -905,7 +942,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/hebbian_learning_ann$main_mlp_mnist.coverage" NAME="main_mlp_mnist Coverage Results" MODIFIED="1579811910920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hebbian_learning_ann$main_mlp_mnist.coverage" NAME="main_mlp_mnist Coverage Results" MODIFIED="1579814528527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/annleukemia$main_mlp_mnist.coverage" NAME="main_mlp_mnist Coverage Results" MODIFIED="1579810363339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="debuggerHistoryManager">

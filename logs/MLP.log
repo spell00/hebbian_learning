@@ -5,8 +5,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 1
-[Train]		 Loss: 2.38, accuracy: 0.1804
-[Validation]	 J_a: 2.40, accuracy: 0.1897
+[Train]		 Loss: 2.38, accuracy: 0.1547
+[Validation]	 J_a: 2.39, accuracy: 0.2666
 epoch 2
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -14,8 +14,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 2
-[Train]		 Loss: 2.36, accuracy: 0.2316
-[Validation]	 J_a: 2.40, accuracy: 0.1981
+[Train]		 Loss: 2.35, accuracy: 0.2252
+[Validation]	 J_a: 2.39, accuracy: 0.2610
 epoch 3
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -23,8 +23,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 3
-[Train]		 Loss: 2.36, accuracy: 0.2209
-[Validation]	 J_a: 2.40, accuracy: 0.2073
+[Train]		 Loss: 2.35, accuracy: 0.2273
+[Validation]	 J_a: 2.39, accuracy: 0.2492
 epoch 4
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -32,8 +32,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 4
-[Train]		 Loss: 2.36, accuracy: 0.2359
-[Validation]	 J_a: 2.40, accuracy: 0.2157
+[Train]		 Loss: 2.35, accuracy: 0.2273
+[Validation]	 J_a: 2.39, accuracy: 0.2352
 epoch 5
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -41,8 +41,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 5
-[Train]		 Loss: 2.36, accuracy: 0.2231
-[Validation]	 J_a: 2.40, accuracy: 0.2234
+[Train]		 Loss: 2.35, accuracy: 0.2231
+[Validation]	 J_a: 2.39, accuracy: 0.2210
 epoch 6
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -50,8 +50,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 6
-[Train]		 Loss: 2.36, accuracy: 0.2497
-[Validation]	 J_a: 2.40, accuracy: 0.2266
+[Train]		 Loss: 2.35, accuracy: 0.2369
+[Validation]	 J_a: 2.39, accuracy: 0.2049
 epoch 7
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -59,8 +59,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 7
-[Train]		 Loss: 2.36, accuracy: 0.2423
-[Validation]	 J_a: 2.40, accuracy: 0.2346
+[Train]		 Loss: 2.35, accuracy: 0.2540
+[Validation]	 J_a: 2.39, accuracy: 0.1937
 epoch 8
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -68,8 +68,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 8
-[Train]		 Loss: 2.36, accuracy: 0.2359
-[Validation]	 J_a: 2.40, accuracy: 0.2386
+[Train]		 Loss: 2.35, accuracy: 0.2327
+[Validation]	 J_a: 2.39, accuracy: 0.1889
 epoch 9
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -77,8 +77,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 9
-[Train]		 Loss: 2.36, accuracy: 0.2540
-[Validation]	 J_a: 2.40, accuracy: 0.2420
+[Train]		 Loss: 2.35, accuracy: 0.2316
+[Validation]	 J_a: 2.39, accuracy: 0.1865
 epoch 10
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -86,8 +86,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 10
-[Train]		 Loss: 2.36, accuracy: 0.2209
-[Validation]	 J_a: 2.40, accuracy: 0.2458
+[Train]		 Loss: 2.35, accuracy: 0.2092
+[Validation]	 J_a: 2.39, accuracy: 0.1849
 epoch 11
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -95,8 +95,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 11
-[Train]		 Loss: 2.36, accuracy: 0.2070
-[Validation]	 J_a: 2.40, accuracy: 0.2472
+[Train]		 Loss: 2.35, accuracy: 0.2220
+[Validation]	 J_a: 2.39, accuracy: 0.1843
 epoch 12
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -104,8 +104,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 12
-[Train]		 Loss: 2.36, accuracy: 0.2593
-[Validation]	 J_a: 2.40, accuracy: 0.2474
+[Train]		 Loss: 2.35, accuracy: 0.2295
+[Validation]	 J_a: 2.39, accuracy: 0.1831
 epoch 13
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -113,8 +113,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 13
-[Train]		 Loss: 2.36, accuracy: 0.2647
-[Validation]	 J_a: 2.40, accuracy: 0.2454
+[Train]		 Loss: 2.35, accuracy: 0.2337
+[Validation]	 J_a: 2.39, accuracy: 0.1827
 epoch 14
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -122,8 +122,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 14
-[Train]		 Loss: 2.36, accuracy: 0.2369
-[Validation]	 J_a: 2.40, accuracy: 0.2464
+[Train]		 Loss: 2.35, accuracy: 0.2369
+[Validation]	 J_a: 2.39, accuracy: 0.1817
 epoch 15
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -131,8 +131,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 15
-[Train]		 Loss: 2.36, accuracy: 0.2359
-[Validation]	 J_a: 2.39, accuracy: 0.2442
+[Train]		 Loss: 2.35, accuracy: 0.2327
+[Validation]	 J_a: 2.39, accuracy: 0.1807
 epoch 16
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -140,8 +140,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 16
-[Train]		 Loss: 2.36, accuracy: 0.2070
-[Validation]	 J_a: 2.39, accuracy: 0.2402
+[Train]		 Loss: 2.35, accuracy: 0.2134
+[Validation]	 J_a: 2.39, accuracy: 0.1801
 epoch 17
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -149,8 +149,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 17
-[Train]		 Loss: 2.36, accuracy: 0.2295
-[Validation]	 J_a: 2.39, accuracy: 0.2384
+[Train]		 Loss: 2.35, accuracy: 0.2241
+[Validation]	 J_a: 2.39, accuracy: 0.1791
 epoch 18
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -158,8 +158,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 18
-[Train]		 Loss: 2.36, accuracy: 0.2166
-[Validation]	 J_a: 2.39, accuracy: 0.2322
+[Train]		 Loss: 2.35, accuracy: 0.2177
+[Validation]	 J_a: 2.39, accuracy: 0.1793
 epoch 19
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -167,8 +167,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 19
-[Train]		 Loss: 2.36, accuracy: 0.2583
-[Validation]	 J_a: 2.39, accuracy: 0.2270
+[Train]		 Loss: 2.35, accuracy: 0.2092
+[Validation]	 J_a: 2.39, accuracy: 0.1783
 epoch 20
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -176,8 +176,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 20
-[Train]		 Loss: 2.36, accuracy: 0.2316
-[Validation]	 J_a: 2.39, accuracy: 0.2230
+[Train]		 Loss: 2.35, accuracy: 0.2060
+[Validation]	 J_a: 2.39, accuracy: 0.1783
 epoch 21
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -185,8 +185,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 21
-[Train]		 Loss: 2.36, accuracy: 0.2166
-[Validation]	 J_a: 2.39, accuracy: 0.2212
+[Train]		 Loss: 2.35, accuracy: 0.1921
+[Validation]	 J_a: 2.39, accuracy: 0.1777
 epoch 22
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -194,8 +194,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 22
-[Train]		 Loss: 2.36, accuracy: 0.2092
-[Validation]	 J_a: 2.39, accuracy: 0.2192
+[Train]		 Loss: 2.35, accuracy: 0.2081
+[Validation]	 J_a: 2.39, accuracy: 0.1771
 epoch 23
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -203,8 +203,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 23
-[Train]		 Loss: 2.36, accuracy: 0.2220
-[Validation]	 J_a: 2.39, accuracy: 0.2153
+[Train]		 Loss: 2.35, accuracy: 0.1985
+[Validation]	 J_a: 2.39, accuracy: 0.1765
 epoch 24
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -212,8 +212,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 24
-[Train]		 Loss: 2.36, accuracy: 0.2231
-[Validation]	 J_a: 2.39, accuracy: 0.2123
+[Train]		 Loss: 2.35, accuracy: 0.1996
+[Validation]	 J_a: 2.39, accuracy: 0.1759
 epoch 25
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -221,8 +221,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 25
-[Train]		 Loss: 2.36, accuracy: 0.2295
-[Validation]	 J_a: 2.39, accuracy: 0.2091
+[Train]		 Loss: 2.35, accuracy: 0.2188
+[Validation]	 J_a: 2.39, accuracy: 0.1751
 epoch 26
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -230,8 +230,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 26
-[Train]		 Loss: 2.36, accuracy: 0.2134
-[Validation]	 J_a: 2.39, accuracy: 0.2073
+[Train]		 Loss: 2.35, accuracy: 0.2273
+[Validation]	 J_a: 2.39, accuracy: 0.1739
 epoch 27
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -239,8 +239,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 27
-[Train]		 Loss: 2.36, accuracy: 0.2252
-[Validation]	 J_a: 2.39, accuracy: 0.2031
+[Train]		 Loss: 2.35, accuracy: 0.2263
+[Validation]	 J_a: 2.39, accuracy: 0.1729
 epoch 28
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -248,8 +248,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 28
-[Train]		 Loss: 2.36, accuracy: 0.2156
-[Validation]	 J_a: 2.39, accuracy: 0.2017
+[Train]		 Loss: 2.35, accuracy: 0.2199
+[Validation]	 J_a: 2.39, accuracy: 0.1721
 epoch 29
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -257,8 +257,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 29
-[Train]		 Loss: 2.36, accuracy: 0.2369
-[Validation]	 J_a: 2.39, accuracy: 0.1989
+[Train]		 Loss: 2.35, accuracy: 0.2273
+[Validation]	 J_a: 2.39, accuracy: 0.1711
 epoch 30
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -266,8 +266,8 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 30
-[Train]		 Loss: 2.36, accuracy: 0.2209
-[Validation]	 J_a: 2.39, accuracy: 0.1961
+[Train]		 Loss: 2.35, accuracy: 0.2166
+[Validation]	 J_a: 2.39, accuracy: 0.1703
 epoch 31
 ModuleList(
   (0): Linear(in_features=784, out_features=16, bias=True)
@@ -275,329 +275,5 @@ ModuleList(
   (2): Linear(in_features=16, out_features=11, bias=True)
 )
 Epoch: 31
-[Train]		 Loss: 2.36, accuracy: 0.2145
-[Validation]	 J_a: 2.39, accuracy: 0.1931
-epoch 32
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 32
-[Train]		 Loss: 2.36, accuracy: 0.2369
-[Validation]	 J_a: 2.39, accuracy: 0.1907
-epoch 33
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 33
-[Train]		 Loss: 2.36, accuracy: 0.2134
-[Validation]	 J_a: 2.39, accuracy: 0.1879
-epoch 34
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 34
-[Train]		 Loss: 2.36, accuracy: 0.2145
-[Validation]	 J_a: 2.39, accuracy: 0.1853
-epoch 35
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 35
-[Train]		 Loss: 2.36, accuracy: 0.2134
-[Validation]	 J_a: 2.39, accuracy: 0.1819
-epoch 36
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 36
-[Train]		 Loss: 2.36, accuracy: 0.2028
-[Validation]	 J_a: 2.39, accuracy: 0.1797
-epoch 37
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 37
-[Train]		 Loss: 2.36, accuracy: 0.2145
-[Validation]	 J_a: 2.39, accuracy: 0.1759
-epoch 38
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 38
-[Train]		 Loss: 2.36, accuracy: 0.2199
-[Validation]	 J_a: 2.39, accuracy: 0.1727
-epoch 39
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 39
-[Train]		 Loss: 2.36, accuracy: 0.1942
-[Validation]	 J_a: 2.39, accuracy: 0.1707
-epoch 40
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 40
-[Train]		 Loss: 2.36, accuracy: 0.1953
-[Validation]	 J_a: 2.39, accuracy: 0.1677
-epoch 41
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 41
-[Train]		 Loss: 2.36, accuracy: 0.2273
-[Validation]	 J_a: 2.39, accuracy: 0.1661
-epoch 42
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 42
-[Train]		 Loss: 2.36, accuracy: 0.2220
-[Validation]	 J_a: 2.39, accuracy: 0.1627
-epoch 43
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 43
-[Train]		 Loss: 2.36, accuracy: 0.1836
-[Validation]	 J_a: 2.39, accuracy: 0.1595
-epoch 44
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 44
-[Train]		 Loss: 2.36, accuracy: 0.2060
-[Validation]	 J_a: 2.39, accuracy: 0.1565
-epoch 45
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 45
-[Train]		 Loss: 2.36, accuracy: 0.2145
-[Validation]	 J_a: 2.39, accuracy: 0.1548
-epoch 46
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 46
-[Train]		 Loss: 2.36, accuracy: 0.2038
-[Validation]	 J_a: 2.39, accuracy: 0.1506
-epoch 47
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 47
-[Train]		 Loss: 2.36, accuracy: 0.2006
-[Validation]	 J_a: 2.39, accuracy: 0.1492
-epoch 48
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 48
-[Train]		 Loss: 2.36, accuracy: 0.2295
-[Validation]	 J_a: 2.39, accuracy: 0.1464
-epoch 49
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 49
-[Train]		 Loss: 2.36, accuracy: 0.1996
-[Validation]	 J_a: 2.39, accuracy: 0.1436
-epoch 50
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 50
-[Train]		 Loss: 2.36, accuracy: 0.2199
-[Validation]	 J_a: 2.39, accuracy: 0.1410
-epoch 51
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 51
-[Train]		 Loss: 2.36, accuracy: 0.2070
-[Validation]	 J_a: 2.39, accuracy: 0.1382
-epoch 52
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 52
-[Train]		 Loss: 2.36, accuracy: 0.1889
-[Validation]	 J_a: 2.39, accuracy: 0.1364
-epoch 53
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 53
-[Train]		 Loss: 2.36, accuracy: 0.2284
-[Validation]	 J_a: 2.39, accuracy: 0.1346
-epoch 54
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 54
-[Train]		 Loss: 2.36, accuracy: 0.2220
-[Validation]	 J_a: 2.39, accuracy: 0.1330
-epoch 55
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 55
-[Train]		 Loss: 2.36, accuracy: 0.2017
-[Validation]	 J_a: 2.39, accuracy: 0.1308
-epoch 56
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 56
-[Train]		 Loss: 2.36, accuracy: 0.2028
-[Validation]	 J_a: 2.39, accuracy: 0.1296
-epoch 57
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 57
-[Train]		 Loss: 2.36, accuracy: 0.2188
-[Validation]	 J_a: 2.39, accuracy: 0.1280
-epoch 58
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 58
-[Train]		 Loss: 2.36, accuracy: 0.1836
-[Validation]	 J_a: 2.39, accuracy: 0.1270
-epoch 59
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 59
-[Train]		 Loss: 2.36, accuracy: 0.1942
-[Validation]	 J_a: 2.39, accuracy: 0.1248
-epoch 60
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 60
-[Train]		 Loss: 2.36, accuracy: 0.2369
-[Validation]	 J_a: 2.39, accuracy: 0.1244
-epoch 61
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 61
-[Train]		 Loss: 2.36, accuracy: 0.1910
-[Validation]	 J_a: 2.39, accuracy: 0.1236
-epoch 62
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 62
-[Train]		 Loss: 2.36, accuracy: 0.2166
-[Validation]	 J_a: 2.39, accuracy: 0.1224
-epoch 63
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 63
-[Train]		 Loss: 2.36, accuracy: 0.2113
-[Validation]	 J_a: 2.39, accuracy: 0.1212
-epoch 64
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 64
-[Train]		 Loss: 2.36, accuracy: 0.2038
-[Validation]	 J_a: 2.39, accuracy: 0.1208
-epoch 65
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 65
-[Train]		 Loss: 2.36, accuracy: 0.1964
-[Validation]	 J_a: 2.39, accuracy: 0.1190
-epoch 66
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 66
-[Train]		 Loss: 2.36, accuracy: 0.2177
-[Validation]	 J_a: 2.39, accuracy: 0.1176
-epoch 67
-ModuleList(
-  (0): Linear(in_features=784, out_features=16, bias=True)
-  (1): Linear(in_features=16, out_features=16, bias=True)
-  (2): Linear(in_features=16, out_features=11, bias=True)
-)
-Epoch: 67
-[Train]		 Loss: 2.36, accuracy: 0.2006
-[Validation]	 J_a: 2.39, accuracy: 0.1154
+[Train]		 Loss: 2.35, accuracy: 0.1932
+[Validation]	 J_a: 2.39, accuracy: 0.1691
