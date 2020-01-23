@@ -1,7 +1,7 @@
 
 def __main__():
     from models.discriminative.artificial_neural_networks.MultiLayerPerceptron import MLP
-    home_path = "/home/simon/PycharmProjects/anndementia"
+    home_path = "/home/simon/PycharmProjects/hebbian_learning_ann"
     destination_folder = "hebbian_learning_ann"
     data_folder = "data"
     results_folder = "results"

@@ -187,7 +187,7 @@ class MLP(NeuralNet):
         return
 
     def run(self, n_epochs, verbose=1, clip_grad=0, is_input_pruning=False, start_pruning=3, show_progress=20,
-            is_balanced_relu=True, plot_progress=20, hist_epoch=20, all0=False, overall_mean=False):
+            is_balanced_relu=False, plot_progress=20, hist_epoch=20, all0=False, overall_mean=False):
 
         """
 
@@ -299,29 +299,6 @@ class MLP(NeuralNet):
 
                 del loss, x, y
 
-            if self.epoch % hebb_round == 0 and self.epoch != 0:
-                if self.is_hebb_layers:
-                    self.fcs, self.valid_bool, self.bn = self.hebb_layers.compute_hebb(total_loss, self.epoch,
-                                                results_path=self.results_path, fcs=self.fcs, verbose=3)
-                    alive_inputs = sum(self.valid_bool)
-                    if alive_inputs < len(self.valid_bool):
-                        print("Current input size:", alive_inputs, "/", len(self.valid_bool))
-
-                    hebb_input_values = self.hebb_layers.hebb_input_values
-
-                    # The last positions are for the auxiliary network, if using auxiliary deep generative model
-                    if self.a_dim > 0:
-                        involment_df = pd.concat((involment_df, pd.DataFrame(hebb_input_values.detach().cpu().numpy()
-                                                                    [:-self.a_dim], index=self.indices_names)), axis=1)
-                    else:
-                        involment_df = pd.concat((involment_df, pd.DataFrame(hebb_input_values.detach().cpu().numpy(),
-                                                                             index=self.indices_names)), axis=1)
-                    involment_df.columns = [str(a) for a in range(involment_df.shape[1])]
-                    last_col = str(int(involment_df.shape[1])-1)
-                    print("epoch", self.epoch, "last ", last_col, file=file_involvment)
-                    print(involment_df.sort_values(by=[last_col], ascending=False), file=file_involvment)
-
-
             print(self.fcs, file=file)
 
             self.eval()
@@ -401,6 +378,28 @@ class MLP(NeuralNet):
             if self.epoch % plot_progress == 0:
                 self.valid_total_loss_history += [(total_loss / m)]
                 self.valid_accuracy_history += [(accuracy / m)]
+            if self.epoch % hebb_round == 0 and self.epoch != 0:
+                if self.is_hebb_layers:
+                    self.fcs, self.valid_bool, self.bn = self.hebb_layers.compute_hebb(total_loss, self.epoch,
+                                                results_path=self.results_path, fcs=self.fcs, verbose=3)
+                    alive_inputs = sum(self.valid_bool)
+                    if alive_inputs < len(self.valid_bool):
+                        print("Current input size:", alive_inputs, "/", len(self.valid_bool))
+
+                    hebb_input_values = self.hebb_layers.hebb_input_values
+
+                    # The last positions are for the auxiliary network, if using auxiliary deep generative model
+                    if self.a_dim > 0:
+                        involment_df = pd.concat((involment_df, pd.DataFrame(hebb_input_values.detach().cpu().numpy()
+                                                                    [:-self.a_dim], index=self.indices_names)), axis=1)
+                    else:
+                        involment_df = pd.concat((involment_df, pd.DataFrame(hebb_input_values.detach().cpu().numpy(),
+                                                                             index=self.indices_names)), axis=1)
+                    involment_df.columns = [str(a) for a in range(involment_df.shape[1])]
+                    last_col = str(int(involment_df.shape[1])-1)
+                    print("epoch", self.epoch, "last ", last_col, file=file_involvment)
+                    print(involment_df.sort_values(by=[last_col], ascending=False), file=file_involvment)
+
 
             # early-stopping
             if (accuracy > best_accuracy or total_loss < best_loss):

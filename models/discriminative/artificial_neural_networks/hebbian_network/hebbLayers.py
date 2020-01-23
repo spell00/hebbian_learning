@@ -17,7 +17,7 @@ class HebbLayersMLP(NeuralNet):
     def __init__(self, input_size, input_shape, indices_names, num_classes, Ns, hebb_rates, gt, hebb_rates_neurites, hebb_rates_multiplier,
                  new_ns, kernels=None, gt_neurites=None, lambd=1., clamp_max=1000000, clamp_min=-1000000, gt_input=-1000,
                  padding_pooling=1, padding_no_pooling=1, hebb_max_value=10000, a_dim=0,
-                 how_much_more=1.0, hyper_count=3, keep_grad=True, is_pruning=True,
+                 how_much_more=1.0, hyper_count=100, keep_grad=True, is_pruning=True,
                  hb=True, is_conv=False, schedule_value=0, gt_convs=None, new_ns_convs=None):
 
         super().__init__()
@@ -208,6 +208,7 @@ class HebbLayersMLP(NeuralNet):
             if running_loss < (self.best_loss + self.how_much_more):
                 if verbose > 2:
                     print("Count reset to 0", sep="\t", file=self.hebb_log)
+                print("Better loss! Count reset to 0.")
                 self.count = 0
                 self.best_loss = running_loss
             else:
@@ -216,7 +217,7 @@ class HebbLayersMLP(NeuralNet):
         print("HYPER COUNT", self.hyper_count, sep="\t", file=self.hebb_log)
         if self.count == self.hyper_count or self.count_down == count_down_limit:
             if verbose > 2:
-                print("new neurons", sep="\t", file=self.hebb_log)
+                print("new ne   urons", sep="\t", file=self.hebb_log)
                 if self.count == self.hyper_count:
                     print("Reason: Hyper count reached", sep="\t", file=self.hebb_log)
                 else:
