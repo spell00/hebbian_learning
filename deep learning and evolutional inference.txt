@@ -1,0 +1,37 @@
+Deep learning and evolutional inference 
+
+Let's consider we have, somehow, a very big database of images that we know 100% for sure are of not extinct animals from the Sauropsida clade (which means "lizard faces"), except there are no images of birds in it; just all the rest of the lizards. It is used to learn how to identify animals from the Sauropsida clade (we have no pictures of fossils or images from Jurassic Park).
+
+We also have a very large dataset of Synapsida (mammals and extinct relatives) of which we also only have images of the ones that are not extinct today. 
+
+Finally, we also have a third dataset of an unidentified clade. The only thing we know for sure is they are all from the same clade. 
+
+From an evolutionary point of view, here are the things we know:
+    
+    1- All pairs of clade have a common ancestor (unless one of 
+        them is the last universal common ancestor (LUCA), but even 
+        then it is not really a clade but a theoretical concept, so 
+        no 2 individuals could be considered from the LUCA clade)
+    
+    2 - Sauropsida and Synapsida have a common ancestor
+    
+    The possible scenarios are: 
+        a- The new clade is a subclade of Sauropsida
+        b- The new clade is a subclade of Synapsida
+        c- The new clade is a subclade the common ancestor of 
+            Sauropsida and Synapsida (in other words, "Not a 
+            subclass of the 2 suggested")
+     3 - No other scenario is possible (There is no scenario d)
+
+This new clade, based only on those facts and the images at hand, could we find which is the most likely scenario?
+
+In reality, the mysterious dataset contain images of birds. It is not evident, when you don't know, that birds actually are more closely related to lizards than mammals, or that they are more closely related to lizards than turtles. Thomas Henry Huxley would have been the first one to suggest it, but based on dinosaure fossils, which is not available in this case. 
+
+
+If no scenario is picked up by the algorithm, or if it does and it is wrong, ... 
+
+If it is right, how good is it? Should it be better?
+
+If we accept evolution theory as the truth, the individuals in the clade all have to "agree" on which subclade it is from; if most have some signs more resembling mammals, but very few have striking evidence that they could be more closely related to reptiles, it would classify most of them as mammals, thus the other ones have to be mammals too, by guilt-by-association.  Huxley made his hypothesis based only (or mainly?) because of the Archaeopteryx, which was clearly a dinosaure rom the late jurassic. 
+
+It would be easy to classify birds together and distinguish them from reptiles and mammals in a classification task (3 classes), but finding how they are related would represent a much bigger challenge.
